@@ -1,2 +1,2 @@
 # AJAX-JS
-shorturl.at/bnJRY
+https://shorturl.at/bnJRY
