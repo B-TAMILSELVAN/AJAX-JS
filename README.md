@@ -1,2 +1,2 @@
 # AJAX-JS
-https://shorturl.at/bnJRY
+https://b-tamilselvan.github.io/AJAX-JS/
